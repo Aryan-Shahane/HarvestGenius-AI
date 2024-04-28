@@ -1,1 +1,0 @@
-- Use fertilizer high in phosphorus, placing them near plant roots

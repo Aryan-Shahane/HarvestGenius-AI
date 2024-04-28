@@ -1,2 +1,0 @@
-- Check moisture level of soil frequently, and hydrate soil if it is too dry
-- Increase water retention in soil

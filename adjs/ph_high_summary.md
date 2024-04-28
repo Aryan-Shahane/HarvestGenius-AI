@@ -1,1 +1,0 @@
-- Amend soil with organic matter such as peat or sphagnum peat moss

@@ -1,2 +1,0 @@
-- Avoid future phosphorus applications
-- If organic nitrogen sources or mulches are needed, use very low phosphorus producs such as blood meal or pine barch mulch

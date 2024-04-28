@@ -1,2 +1,0 @@
-- Reduce impact to the soil by adding cover crops or crop residue
-- Leave at least 30% of crop residue on the surface
